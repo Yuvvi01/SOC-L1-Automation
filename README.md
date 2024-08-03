@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a sophisticated model that integrates Large Language Models (LLMs) such as GPT-4, GPT-3.5, and LLaMA-3 with Security Information and Event Management (SIEM) systems to enhance the triage process in Security Operations Centers (SOCs). This model automates alert analysis, provides detailed SOC Analyst Triage comments, and generates comprehensive PDF reports, all aimed at improving the efficiency and accuracy of SOC operations.
+This repository contains a model that integrates Large Language Models (LLMs) such as GPT-4, GPT-3.5, and LLaMA-3 with Security Information and Event Management (SIEM) systems to enhance the triage process in Security Operations Centers (SOCs). This model automates alert analysis, provides detailed SOC Analyst Triage comments, and generates comprehensive PDF reports, all aimed at improving the efficiency and accuracy of SOC operations.
 
 ## Features
 
